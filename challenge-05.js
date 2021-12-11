@@ -41,5 +41,3 @@ export default function daysToXmas(date) {
 
   return remainingDays;
 }
-
-console.log(daysToXmas(new Date("December 20, 2021 03:24:00")));

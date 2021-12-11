@@ -49,5 +49,3 @@ export default function sumPairs(numbers, result) {
 
   return resultPair;
 }
-
-console.log(sumPairs([-3, -2, 7, -5], 10));

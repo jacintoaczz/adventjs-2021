@@ -74,8 +74,6 @@ export default function createXmasTree(height) {
   return tree;
 }
 
-console.log(createXmasTree(1));
-
 /* 
   Logica:
     Los espacios de relleno que necesita el arbol por cada tramo los calcularemos con la ecuacion:

@@ -109,5 +109,3 @@ export default function contains(store, product) {
 
   return isFound;
 }
-
-console.log(contains(almacen, "sandalias"));

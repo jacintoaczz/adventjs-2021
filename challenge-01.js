@@ -21,5 +21,3 @@ export default function contarOvejas(ovejas) {
 }
 
 const ovejasFiltradas = contarOvejas(ovejas);
-
-console.log(ovejasFiltradas);

@@ -43,5 +43,3 @@ export default function maxProfit(prices) {
 
   return maximumProfit;
 }
-
-console.log(maxProfit(pricesDoge));
